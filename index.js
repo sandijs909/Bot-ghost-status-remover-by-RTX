@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["tesr","testt","hhhh"];
+const statusMessages = ["Made with JS","Made By 4etri","Official Cherry Bot"];
 
 
 let currentIndex = 0;
